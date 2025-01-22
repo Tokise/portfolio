@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/my-portfolio.git
+git clone https://github.com/Tokise/portfolio.git
 ```
 
 2. Navigate to the project directory:
@@ -125,6 +125,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
+Email - ablenjohnrey@gmail.com
 
-Project Link: [https://github.com/yourusername/my-portfolio](https://github.com/yourusername/my-portfolio)
+Project Link: [https://github.com/Tokise/portfolio](https://github.com/Tokise/portfolio)
