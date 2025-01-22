@@ -402,7 +402,7 @@ const Hero = () => {
           <SocialLink href="https://github.com/Tokise" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </SocialLink>
-          <SocialLink href="https://www.facebook.com/jry.aln.06.com" target="_blank" rel="noopener noreferrer">
+          <SocialLink href="https://www.facebook.com/jry.aln.06/" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-facebook"></i>
           </SocialLink>
           <SocialLink href="https://www.instagram.com/rei.abn/" target="_blank" rel="noopener noreferrer">
