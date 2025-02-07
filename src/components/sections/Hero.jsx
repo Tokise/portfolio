@@ -181,7 +181,7 @@ const ImageContainer = styled.div`
       var(--gradient-mid),
       var(--gradient-end)
     );
-    border-radius: 10px;
+  
     z-index: -1;
     filter: blur(10px);
     opacity: 0.5;
