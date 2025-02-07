@@ -120,7 +120,7 @@ const About = () => {
               As a dedicated second-year IT student, I'm passionate about exploring and learning modern 
               technologies. My journey in tech has equipped me with foundational knowledge in programming, 
               web development, and problem-solving skills. I enjoy tackling challenges and turning ideas 
-              into reality through code.
+              into reality through code. TEST
             </Description>
             <Description>
               Currently focusing on web development and software engineering fundamentals, I'm actively 
