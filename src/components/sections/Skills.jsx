@@ -108,7 +108,7 @@ const Skills = () => {
       icon: "fas fa-code",
       skills: [
         { name: "HTML/CSS", level: "Intermediate", progress: 80 },
-        { name: "JavaScript", level: "Intermediate", progress: 50 },
+        { name: "JavaScript", level: "Beginner", progress: 10 },
         { name: "React", level: "Beginner", progress: 20 },
       
       ]
